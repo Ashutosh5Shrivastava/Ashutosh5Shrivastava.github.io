@@ -25,7 +25,7 @@ I am **Ashutosh Shrivastava** from Indian Institute of Technology Goa in Compute
  ## Spring Semester
  - Basic Linear Algebra , **MA102** , *Dr. Kalpesh Haria*
  - Ordinary Differential Equations , **MA103** , *Dr. Lok Pati Tripathi*
- - Electricity and Magnetism , **PH 102** ,* Dr. Vaibhav Wasnik, Dr. Santosh Kumar*
+ - Electricity and Magnetism , **PH 102** , *Dr. Vaibhav Wasnik, Dr. Santosh Kumar*
  - Physics Lab , **PH 103** , *Dr. Vaibhav Wasnik, Dr. Santosh Kumar, Dr. Sudipta kanungo, Dr. Santosh Kumar Das, Dr. Jhuma Sannigrahi*
  - Introduction to Electrical and Electronics Engineering , **EE 101** , *Dr. Apeksha Madhukar, Dr. Bidhan Pramanick*
  - Introductory Biology , **BIO 101**, *Dr. Nipa Chongdar, Dr. Sreenath Balakrishnan*
