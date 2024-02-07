@@ -1,6 +1,6 @@
 # About me
 Name- **Ashutosh Shrivastava**
-[it-takes-two-tango-idiom_1308-17930.jpg](https://raw.githubusercontent.com/Ashutosh5Shrivastava/Ashutosh5Shrivastava.github.io/main/it-takes-two-tango-idiom_1308-17930.jpg)
+![it-takes-two-tango-idiom_1308-17930.jpg](https://raw.githubusercontent.com/Ashutosh5Shrivastava/Ashutosh5Shrivastava.github.io/main/it-takes-two-tango-idiom_1308-17930.jpg)
 
 I am **Ashutosh Shrivastava** from Indian Institute of Technology Goa in Computer Science Engineering branch. I have lived in Kanpur,Bhopal and currently living in Mumbai. I can speak Hindi and English. I have studied in **CBSE**schools like [Campion School Bhopal](https://www.campionbhopal.com/) and [Delhi Public School Azaad Nagar Kanpur.](https://dpsazaadnagar.com/)
 # Education
