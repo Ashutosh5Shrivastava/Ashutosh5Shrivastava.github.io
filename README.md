@@ -5,7 +5,7 @@ Name- **Ashutosh Shrivastava**
 I am **Ashutosh Shrivastava** from Indian Institute of Technology Goa in Computer Science Engineering branch. I have lived in Kanpur,Bhopal and currently living in Mumbai. I can speak Hindi and English. I have studied in **CBSE**schools like [Campion School Bhopal](https://www.campionbhopal.com/) and [Delhi Public School Azaad Nagar Kanpur.](https://dpsazaadnagar.com/)
 # Education
 |Academic Year | Standard |School name| City/Region | 
-|-|-|-|-|
+|-|-|-|-
 |2010-11|1|DVSP School| Kanpur|
 |2011-12|2|DVSP School| Kanpur|
 |2012-13|3|Campion School| Bhopal|
