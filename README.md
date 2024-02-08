@@ -29,8 +29,8 @@ I am **Ashutosh Shrivastava** from Indian Institute of Technology Goa in Compute
  - Physics Lab , **PH 103** , *Dr. Vaibhav Wasnik, Dr. Santosh Kumar, Dr. Sudipta kanungo, Dr. Santosh Kumar Das, Dr. Jhuma Sannigrahi*
  - Introduction to Electrical and Electronics Engineering , **EE 101** , *Dr. Apeksha Madhukar, Dr. Bidhan Pramanick*
  - Introductory Biology , **BIO 101**, *Dr. Nipa Chongdar, Dr. Sreenath Balakrishnan*
- - Engineering Graphics and Introduction to Computer- Aided-Drawing , **ME 102 , *Dr. Arindam Das*
- - National Sports Organization , **NO102 **, *Mr. Santosh Upadhyay*
+ - Engineering Graphics and Introduction to Computer- Aided-Drawing , **ME 102** , *Dr. Arindam Das*
+ - National Sports Organization , **NO102**, *Mr. Santosh Upadhyay*
  - Software Tools , **CS102**, *Dr. Clint P George*
 
 ## Autumn Semester
