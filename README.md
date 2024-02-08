@@ -5,21 +5,21 @@ Name- **Ashutosh Shrivastava**
 I am **Ashutosh Shrivastava** from Indian Institute of Technology Goa in Computer Science Engineering branch. I have lived in Kanpur,Bhopal and currently living in Mumbai. I can speak Hindi and English. I have studied in **CBSE**schools like [Campion School Bhopal](https://www.campionbhopal.com/) and [Delhi Public School Azaad Nagar Kanpur.](https://dpsazaadnagar.com/)
 # Education
 |Academic Year | Standard |School name| City/Region | 
-|-|-|-|-
-|2010-11|1|DVSP School| Kanpur|
-|2011-12|2|DVSP School| Kanpur|
-|2012-13|3|Campion School| Bhopal|
-|2013-14|4|Campion School| Bhopal|
-|2014-15|5|Campion School| Bhopal|
-|2015-16|6|Campion School| Bhopal|
-|2016-17|7|Campion School| Bhopal|
-|2017-18|8|Campion School| Bhopal|
-|2018-19|9|GBM School| Mumbai|
-|2019-20|10|DPS Azaad Nagar| Kanpur|
-|2020-21|11|DPS Azaad Nagar| Kanpur|
-|2021-22|12|DPS Azaad Nagar School| Kanpur|
-|2022-23|None|Drop| Mumbai|
-|2023-24|B.tech 1st year|IIT Goa| Goa|
+| - | - | - | - |
+| 2010-11 | 1 | DVSP School | Kanpur |
+| 2011-12 | 2 | DVSP School | Kanpur |
+| 2012-13 | 3 |Campion School| Bhopal|
+| 2013-14 | 4 | Campion School| Bhopal|
+| 2014-15 | 5 |Campion School| Bhopal|
+| 2015-16 | 6 |Campion School| Bhopal|
+| 2016-17 | 7 |Campion School| Bhopal|
+| 2017-18 | 8 |Campion School| Bhopal|
+| 2018-19 | 9 |GBM School| Mumbai|
+| 2019-20 | 10 |DPS Azaad Nagar| Kanpur|
+| 2020-21 | 11 |DPS Azaad Nagar| Kanpur|
+| 2021-22 | 12 |DPS Azaad Nagar| Kanpur|
+| 2022-23 | None |Drop | Mumbai |
+| 2023-24 | B.tech 1st year | IIT Goa | Goa 
 # Course @IIT Goa
 
  ## Spring Semester
