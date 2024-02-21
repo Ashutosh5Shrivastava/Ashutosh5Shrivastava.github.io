@@ -1,0 +1,38 @@
+div.first{border-width:2pt;
+border-style:solid;
+Background-color:lightsalmon;}
+b.one{font-family:"Times New Roman";
+font-size: 13pt;
+text-align:left}
+img{height:172pt; width:172pt; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;}
+  p.first{font-family:"sans-serif";
+  color:blue }
+  a:unvisited{color:blue}
+  a:visited{color:grey}
+  a:active{color:pink}
+  a:hover{color:green}
+  th{font-style:underline}
+  table,td,th{ background-color:lightblue ; border-spacing:10pt; border-style: solid}
+  th, td {
+  padding: 10pt;
+}
+td:nth-child(odd){text-align:left}
+td:nth-child(even){text-align:right}
+th:nth-child(odd){text-align:left}
+th:nth-child(even){text-align:right}
+div.five{background-color:red;font-family:'arial';color:yellow;border-style:solid}
+body{background-image:url('Firefox_wallpaper.png')}
+.second{display:flex}
+div.third{border-width:3pt;
+border-style:solid;
+Background-color:green;}
+div.forth{border-width:3pt;
+border-style:solid;
+Background-color:lightpink;}
+.spring{  list-style-type: square;
+}
+.autumn{  list-style-type: lower-roman;
+}
